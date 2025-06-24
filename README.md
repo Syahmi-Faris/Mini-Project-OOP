@@ -71,10 +71,3 @@ The goal of this project is not only to implement functional registration logic 
 - Example: If the user leaves course code or title empty, an `IllegalArgumentException` is thrown and handled.
 
 ---
-
-## 💻 How to Run
-
-1. Make sure all `.java` files are placed inside the `Project` folder.
-2. Each file starts with:
-   ```java
-   package Project;
