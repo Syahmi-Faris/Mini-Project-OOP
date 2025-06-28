@@ -132,7 +132,7 @@ class Postgraduate extends Student {
     }
 }
 
-public class MainApp {
+public class StudentCourseRegistrationSystem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Student student = null;
